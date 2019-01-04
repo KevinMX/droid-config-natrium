@@ -14,6 +14,8 @@ Requires:
 - droid-config-natrium-flashing
 - droid-config-natrium-bluez5
 - droid-hal-version-natrium
+#add for natrium
+- droid-hal-hammerhead-detritus
 
 # Hybris packages
 - libhybris-libEGL
